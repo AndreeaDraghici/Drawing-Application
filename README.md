@@ -29,7 +29,7 @@ a **mouseup**, for when the user completes drawing.
 Initial version 1.0.0 of application.
 
 
-#### Resources:
+### Resources:
 ----------------------
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
 
